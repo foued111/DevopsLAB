@@ -18,6 +18,8 @@ class Main {
     number1 = input.nextDouble();
 
     System.out.println("Enter second number");
+    System.out.println("AzureDevops");
+
     number2 = input.nextDouble();
 
     switch (operator) {
